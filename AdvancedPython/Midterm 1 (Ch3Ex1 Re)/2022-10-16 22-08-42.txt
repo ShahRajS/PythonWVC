@@ -1,0 +1,8 @@
+Your bill for today:
+--------------------
+[#1 De Anza Burger:  $5.25] x 3
+[#3 Mushroom Swiss:  $5.95] x 1
+
+Total before tax:   $21.70
+			 Tax:   $0.00
+Total Price:		$21.70

@@ -1,0 +1,9 @@
+DEBUG:root:Debugging statement
+INFO:root:Information statement
+WARNING:root:Warning statement
+ERROR:root:Error statement
+ERROR:root:Error occurred while dividing rate / percent
+Traceback (most recent call last):
+  File "C:\Users\shahr\PycharmProjects\AdvancedPython\LoggingPractice.py", line 13, in <module>
+    (rate / percent)
+ZeroDivisionError: division by zero

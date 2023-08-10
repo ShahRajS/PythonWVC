@@ -1,0 +1,9 @@
+Your bill for today:
+--------------------
+[#2 Bacon Cheese:  $5.75] x 6
+[#4 Western Burger:  $5.95] x 10
+[#5 Don Cali Burger:  $5.95] x 15
+
+Total before tax:   $183.25
+			 Tax:   $16.49
+Total Price:		$199.74
